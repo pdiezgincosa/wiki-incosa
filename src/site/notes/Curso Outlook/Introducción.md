@@ -7,7 +7,7 @@
 >[!info] **Módulo 1: Introducción a Microsoft Outlook**
 >- **Visión general de la interfaz**: Exploración de las principales secciones: bandeja de entrada, calendario, contactos y tareas.
 >- **Configuración de la cuenta**: Cómo añadir y gestionar múltiples cuentas de correo electrónico.
->- **Personalización básica**: Ajuste de la apariencia y disposición según las preferencias del usuario.
+>- **[[Curso Outlook/Personalización básica\|Personalización básica]]**: Ajuste de la apariencia y disposición según las preferencias del usuario.
 
 - **Módulo 2: Gestión Eficaz del Correo Electrónico**
     - **Organización de la bandeja de entrada**: Uso de carpetas, categorías y banderas para clasificar correos.
